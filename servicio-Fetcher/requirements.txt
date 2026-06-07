@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+google-api-python-client
+google-auth
+sqlalchemy
+psycopg2-binary
+httpx
+PyJWT
+celery
+redis
+python-multipart
